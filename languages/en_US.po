@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CF7 Streak CRM\n"
+"POT-Creation-Date: 2020-06-28 22:18+0200\n"
+"PO-Revision-Date: 2020-06-28 22:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: wisersteps\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: app/class-action.php:80
+msgid "Error"
+msgstr ""
+
+#: app/class-action.php:81
+msgid "Invalid key values."
+msgstr ""
+
+#: app/class-action.php:86
+msgid "Settings saved."
+msgstr ""
+
+#: app/class-action.php:119
+#, php-format
+msgid ""
+"The Streak CRM integration module allows you to send contact or organization "
+"data collected through your contact forms to the Streak CRM Pipelines. For "
+"details, see %s."
+msgstr ""
+
+#: app/class-action.php:121
+msgid "https://streak.com"
+msgstr ""
+
+#: app/class-action.php:122 app/class-action.php:197 app/class-app.php:374
+msgid "Streak CRM"
+msgstr ""
+
+#: app/class-action.php:129
+msgid "Streak CRM is active on this site."
+msgstr ""
+
+#: app/class-action.php:139
+msgid "Setup Integration"
+msgstr ""
+
+#: app/class-action.php:263
+msgid "First Name"
+msgstr ""
+
+#: app/class-action.php:264
+msgid "Last Name"
+msgstr ""
+
+#: app/class-action.php:265
+msgid "Email Address"
+msgstr ""
+
+#: app/class-action.php:266
+msgid "Title"
+msgstr ""
+
+#: app/class-action.php:267 app/class-action.php:291
+msgid "Notes"
+msgstr ""
+
+#: app/class-action.php:268 app/class-action.php:288
+msgid "Address"
+msgstr ""
+
+#: app/class-action.php:269 app/class-action.php:287
+msgid "Phone Number"
+msgstr ""
+
+#: app/class-action.php:270 app/class-action.php:292
+msgid "Twitter Handle"
+msgstr ""
+
+#: app/class-action.php:271 app/class-action.php:293
+msgid "Facebook Handle"
+msgstr ""
+
+#: app/class-action.php:272 app/class-action.php:294
+msgid "Linkedin Handle"
+msgstr ""
+
+#: app/class-action.php:273
+msgid "Photo URL"
+msgstr ""
+
+#: app/class-action.php:284
+msgid "Organization Name"
+msgstr ""
+
+#: app/class-action.php:285
+msgid "Organization Domain"
+msgstr ""
+
+#: app/class-action.php:286
+msgid "Industry"
+msgstr ""
+
+#: app/class-action.php:289
+msgid "Employee Count"
+msgstr ""
+
+#: app/class-action.php:290
+msgid "Logo URL"
+msgstr ""
+
+#: app/class-app.php:260
+msgid "Email Marketing"
+msgstr ""
+
+#: app/panel-page.php:63
+msgid "Enable Logging"
+msgstr ""
+
+#: app/panel-page.php:111
+msgid "Person/Organization Fields"
+msgstr ""
+
+#: app/panel-page.php:119
+msgid "Add as a Person or Organization"
+msgstr ""
+
+#: app/panel-page.php:227
+msgid "Pipeline Fields"
+msgstr ""
+
+#: app/panel-page.php:268
+msgid "Please create some options in this field so it will show up."
+msgstr ""
+
+#: app/panel-page.php:285
+msgid "Pipeline Stage"
+msgstr ""
